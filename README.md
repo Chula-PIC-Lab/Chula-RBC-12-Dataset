@@ -1,4 +1,4 @@
-# Red-blood-cell-segmentation-and-classification
+# Chula RBC-12-Dataset
 
 This is a dataset of red blood cell (RBC) blood smear images used for "**Red Blood Cell Segmentation with Overlapping Cell Separation and Classification from an Imbalanced Dataset**"
 
