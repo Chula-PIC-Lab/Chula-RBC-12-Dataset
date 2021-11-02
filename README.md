@@ -3,6 +3,22 @@
 This is a dataset of red blood cell (RBC) blood smear images used for "**Red Blood Cell Segmentation with Overlapping Cell Separation and Classification from an Imbalanced Dataset**"
 
 ## RBC Types
+0 Normal cell
+1 Macrocyte
+2 Microcyte
+3 Spherocyte
+4 Target cell
+5 Stomatocyte
+6 Ovalocyte
+7 Teardrop
+8 Burr cell
+9 Sickle cell
+10 Schistocyte
+11 uncategorised
+12 Hypochromia
+13 Polychromasia
+14 Keratocyte
+15 Acanthocyte
 
 
 ## Dataset
