@@ -2,6 +2,9 @@
 
 This is a dataset of red blood cell (RBC) blood smear images used for "**Red Blood Cell Segmentation with Overlapping Cell Separation and Classification from an Imbalanced Dataset**"
 
+## RBC Types
+
+
 ## Dataset
 - The "Dataset" folder contains 706 RBC blood smear images with 640*480 resolution.
 - The "Label" folder contains label data with the name of the corresponding image. The file can contain multiple line. Each line is stored in the following sequence:
@@ -9,7 +12,6 @@ This is a dataset of red blood cell (RBC) blood smear images used for "**Red Blo
 - y coordinate
 - type of RBC in number
 
-## Code
 
 
 <!-- ## Citation
