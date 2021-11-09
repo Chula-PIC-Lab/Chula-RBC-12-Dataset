@@ -1,6 +1,6 @@
 # Chula RBC-12-Dataset
 
-This is a dataset of red blood cell (RBC) blood smear images used for "**Red Blood Cell Segmentation with Overlapping Cell Separation and Classification from an Imbalanced Dataset**"
+Chula-RBC-12 Dataset is a dataset of red blood cell (RBC) blood smear images used in "**Red Blood Cell Segmentation with Overlapping Cell Separation and Classification from an Imbalanced Dataset**", containing xx classes of RBC types consisting of 706 smear images that contain over 20,000 RBC cells. The dataset was collected at the Oxidation in Red Cell Disorders Research Unit, Chulalongkorn University in 2019 using a DS-Fi2-L3 Nikon microscope at 1000x magnification.
 
 ## RBC Types
 - 0 Normal cell
@@ -12,13 +12,10 @@ This is a dataset of red blood cell (RBC) blood smear images used for "**Red Blo
 - 6 Ovalocyte
 - 7 Teardrop
 - 8 Burr cell
-- 9 Sickle cell
-- 10 Schistocyte
-- 11 uncategorised
-- 12 Hypochromia
-- 13 Polychromasia
-- 14 Keratocyte
-- 15 Acanthocyte
+- 9 Schistocyte
+- 10 uncategorised
+- 11 Hypochromia
+
 
 
 ## Dataset
@@ -30,18 +27,16 @@ This is a dataset of red blood cell (RBC) blood smear images used for "**Red Blo
 
 
 
-<!-- ## Citation
-If you find this dataset useful for your research, please cite
+## Citation
+If you use this dataset, please cite the following paper:
+
 ```
-@article{CK2019,
-  author    = {Chee Kheng Ch’ng and
-               Chee Seng Chan and
-               Chenglin Liu},
-  title     = {Total-Text: Towards Orientation Robustness in Scene Text Detection},
-  journal   = {International Journal on Document Analysis and Recognition (IJDAR)},
-  volume    = {23},
-  pages     = {31-52},
-  year      = {2020},
-  doi       = {10.1007/s10032-019-00334-z},
+@misc{naruenatthanaset2021red,
+      title={Red Blood Cell Segmentation with Overlapping Cell Separation and Classification on Imbalanced Dataset}, 
+      author={Korranat Naruenatthanaset and Thanarat H. Chalidabhongse and Duangdao Palasuwan and Nantheera Anantrasirichai and Attakorn Palasuwan},
+      year={2021},
+      eprint={2012.01321},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
 }
-``` -->
+```
