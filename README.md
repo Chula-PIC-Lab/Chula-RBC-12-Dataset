@@ -1,4 +1,4 @@
-# Change logs
+# Changelog
 - Elliptocyte was added to the dataset with 32 blood smear images and labels.
 
 # Chula RBC-12-Dataset
@@ -18,6 +18,7 @@ Chula-RBC-12 Dataset is a dataset of red blood cell (RBC) blood smear images us
 - 9 Schistocyte
 - 10 uncategorised
 - 11 Hypochromia
+- 12 Elliptocyte
 
 
 
