@@ -1,5 +1,5 @@
 # Changelog
-- Elliptocyte was added to the dataset with 32 blood smear images and labels.
+- 24/11/2021 Elliptocyte was added to the dataset with 32 blood smear images and labels.
 
 # Chula RBC-12-Dataset
 
@@ -23,7 +23,7 @@ Chula-RBC-12 Dataset is a dataset of red blood cell (RBC) blood smear images us
 
 
 ## Dataset
-- The "Dataset" folder contains 706 RBC blood smear images with 640*480 resolution.
+- The "Dataset" folder contains 738 RBC blood smear images with 640*480 resolution.
 - The "Label" folder contains label data with the name of the corresponding image. The file can contain multiple line. Each line is stored in the following sequence:
 - x coordinate
 - y coordinate
