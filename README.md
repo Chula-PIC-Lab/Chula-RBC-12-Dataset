@@ -1,4 +1,5 @@
 # Changelog
+- 04/12/2021 Anemia images were added to the "RBC Diseases" folder.
 - 24/11/2021 Elliptocyte was added to the dataset with 32 blood smear images and labels.
 
 # Chula RBC-12-Dataset
